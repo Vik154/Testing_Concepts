@@ -9,7 +9,7 @@ using BankAccountNS;
  */
 
 namespace Unit_Test {
-    
+
     [TestClass]
     public class BankAccountTest {
 
