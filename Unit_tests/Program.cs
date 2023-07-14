@@ -1,4 +1,7 @@
-﻿namespace Unit_tests {
+﻿
+
+namespace Unit_tests {
+    
     internal class Program {
         static void Main(string[] args) {
             Console.WriteLine("Hello, World!");
