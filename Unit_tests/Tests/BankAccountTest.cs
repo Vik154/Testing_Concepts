@@ -64,8 +64,7 @@ namespace Unit_Test {
             Assert.Fail("The expected exception was not thrown.");
         }
 
-        /*
-        [TestMethod]
+     /* [TestMethod]
         public void Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange() {
             // Arrange
             double beginningBalance = 11.99;
@@ -76,6 +75,6 @@ namespace Unit_Test {
             // Act and assert
             Assert.ThrowsException<System.ArgumentOutOfRangeException>(() => account.Debit(debitAmount));
         }
-        */
+      */
     }
 }
