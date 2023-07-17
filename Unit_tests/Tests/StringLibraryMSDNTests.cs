@@ -1,4 +1,5 @@
-﻿using Projects;
+﻿// https://learn.microsoft.com/ru-ru/visualstudio/test/live-unit-testing-start?view=vs-2022
+using Projects;
 namespace Tests;
 
 
