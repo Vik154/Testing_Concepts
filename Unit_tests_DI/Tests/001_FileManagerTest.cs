@@ -1,5 +1,6 @@
 ﻿// Проблема тестирования с внешней зависимостью 
 using Projects._001_Problem;
+
 namespace Tests_001;
 
 [TestFixture]
