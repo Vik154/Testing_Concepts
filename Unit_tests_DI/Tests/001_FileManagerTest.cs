@@ -3,7 +3,7 @@ using Projects._001_Problem;
 namespace Tests_001;
 
 [TestFixture]
-public class _001_FileManagerTest {
+public class FileManagerTest {
 
     [Test]
     public void FindLogFileTest1() {
