@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿// Проблема тестирования с внешней зависимостью 
 namespace Projects._001_Problem;
 
 public class FileManager {
@@ -20,7 +15,6 @@ public class FileManager {
                 return true;
             }
         }
-
         return false;
     }
 }
